@@ -8,5 +8,5 @@
     <dimen name="dash_gap">5dp</dimen>
     <dimen name="dash_width">7dp</dimen>
     <dimen name="padding">10dp</dimen>
-    <dimen name="margin">5dp</dimen>
+    <dimen name="margin">15dp</dimen>
 </resources>
