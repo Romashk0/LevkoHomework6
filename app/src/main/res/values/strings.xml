@@ -4,4 +4,5 @@
     <string name="tv_field1">Field 1</string>
     <string name="tv_field2">Field 2</string>
     <string name="tv_field3">Field 3</string>
+    <string name="tv_chat">This is my text. Is text created for testing background style \'chat\', etc.</string>
 </resources>
