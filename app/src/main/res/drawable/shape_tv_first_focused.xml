@@ -4,13 +4,13 @@
     <gradient
         android:angle="270"
         android:centerColor="@color/colorLightYellow"
-        android:endColor="@color/colorWhite"
-        android:startColor="@color/colorBlue"
+        android:endColor="@color/colorPurple"
+        android:startColor="@color/colorWhite"
         android:type="linear" />
     <corners android:radius="@dimen/tv_radius" />
     <stroke
         android:width="@dimen/tv_stroke"
-        android:color="@color/colorGrey"
-        android:dashGap="2dp"
-        android:dashWidth="2dp" />
+        android:color="@color/colorOrange"
+        android:dashGap="@dimen/dash_gap"
+        android:dashWidth="@dimen/dash_width" />
 </shape>
