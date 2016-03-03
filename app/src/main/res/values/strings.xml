@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LevkoHomework6</string>
+    <string name="tv_first">First TextView clickable</string>
+    <string name="tv_field1">Field 1</string>
+    <string name="tv_field2">Field 2</string>
+    <string name="tv_field3">Field 3</string>
+</resources>
